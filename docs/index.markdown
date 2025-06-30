@@ -5,4 +5,9 @@
 layout: home
 ---
 
-Hello World
+Real Tutoring, Real Students, Real Results
+
+About Us
+========
+
+[About Us](info.html) [Book a Session](https://google.com) [Contact Us!](https://google.com)
