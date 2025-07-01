@@ -1,18 +1,118 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<html lang="en">
+<style type="text/css">
+    #landing {
+        text-align: center;
+        font-family: "helvetica", serif;
+        font-size: 7.5dvb;
+        color: white }
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+    .name-title {
+        text-align: left;
+        font-family: "Brush Script MT", serif;
+        font-size: 7.5dvb;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        line-height: 0.5;
+        color: white;
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+    }
+
+    .bio-subtitle {
+        text-align: left;
+        font-family: "Brush Script MT", serif;
+        font-size: 3.5dvb;
+        color: white;
+
+    }
+
+    .bio {
+        text-align: left;
+        font-family: "sans-serif", serif;
+        font-size: 3dvb;
+        color: white;
+    }
+
+    .heading {
+        font-family: "helvetica",serif;
+        font-size: 10dvb;
+        text-align: center;
+        background: lightgray;
+        padding: 10px;
+    }
+
+</style>
 
 
-[jekyll-organization]: https://github.com/jekyll
+<head>
+    <meta charset="UTF-8">
+
+    <title> Real Tutoring, Real Students, Real Results </title>
+
+
+</head>
+
+
+<body style="background-color: black;">
+
+<div class="card-header">
+
+    <h1 class="heading" id="landing" style="color: black">About Us</h1>
+
+    <p style="text-align: center;"> <a href="index.markdown" style="font-size: 4dvb;color: blue"> Home</a>
+        <span style="width: 20dvb; display: inline-block;"> </span> <a href="https://google.com"
+                                                                       style="font-size: 4dvb; color: blue"> Book a
+            Session </a>
+        <span style="width: 20dvb; display: inline-block"> </span> <a href="https://google.com"
+                                                                      style="font-size: 4dvb; color: blue"> Contact
+            Us! </a></p>
+
+
+</div>
+
+<div class="card-body">
+    <! Matthew's Bio >
+
+    <h1 class="name-title"> Matthew Marcelle </h1>
+
+    <p class="bio-subtitle"> Majoring in Pre-Medical Biomechanical Engineering at CWRU, Benjamin Franklin
+        Graduate </p>
+
+    <p class="bio"> </p>
+
+    <img src="">
+
+</div>
+
+<div class="card-body">
+
+    <h1 class="name-title"> Makayla Scoggins</h1>
+
+    <p class="bio-subtitle"> Majoring in Mechanical Engineering and International Studies at CWRU, Fisher Middle High School Graduate</p>
+
+    <p class="bio"> </p>
+
+    <img src="">
+
+</div>
+
+<div class="card-body">
+
+    <h1 class="name-title"> Vinnie Lu </h1>
+
+    <p class="bio-subtitle"> Majoring in English and International Studies at CWRU, Willow High School </p>
+
+    <p class="bio"> </p>
+
+    <img src="">
+
+</div>
+
+
+
+</body>
