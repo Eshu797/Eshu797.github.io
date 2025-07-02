@@ -7,7 +7,6 @@ title: Peer Pathways
 
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,9 +16,7 @@ title: Peer Pathways
 <body>
 <div class="header">
 
-    <h1 class="heading" id="landing" style="color: black">Peer Prospects </h1>
 
-    <p style="text-align: center;"> <a href="info.html" style="font-size: 4dvb;color: blue"> About Us</a>
         <span style="width: 20dvb; display: inline-block;"> </span> <a href="https://google.com"
                                                                        style="font-size: 4dvb; color: blue"> Book a
             Session </a>

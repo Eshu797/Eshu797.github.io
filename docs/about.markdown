@@ -14,7 +14,7 @@ permalink: /about/
 
     .name-title {
         text-align: left;
-        font-family: "Brush Script MT", serif;
+        font-family: "sans-serif", serif;
         font-size: 7.5dvb;
         margin-bottom: 0;
         padding-bottom: 0;
@@ -25,7 +25,7 @@ permalink: /about/
 
     .bio-subtitle {
         text-align: left;
-        font-family: "Brush Script MT", serif;
+        font-family: "sans-serif", serif;
         font-size: 3.5dvb;
         color: white;
 
@@ -49,20 +49,12 @@ permalink: /about/
 </style>
 
 
-<head>
-    <meta charset="UTF-8">
-
-    <title> Real Tutoring, Real Students, Real Results </title>
-
-
+<head style="background-color: lightblue;">
+    <meta charset="UTF-8"><title>Real Tutoring, Real Students, Real Results</title>
 </head>
-
-
-<body style="background-color: black;">
+<body>
 
 <div class="card-header">
-
-    <h1 class="heading" id="landing" style="color: black">About Us</h1>
 
     <p style="text-align: center;"> <a href="index.markdown" style="font-size: 4dvb;color: blue"> Home</a>
         <span style="width: 20dvb; display: inline-block;"> </span> <a href="https://google.com"
@@ -112,7 +104,5 @@ permalink: /about/
     <img src="">
 
 </div>
-
-
-
 </body>
+</html>
